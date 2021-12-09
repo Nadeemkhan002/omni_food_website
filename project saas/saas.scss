@@ -1,0 +1,13 @@
+
+$bg-color:aqua;
+
+h1{
+
+    color: darkmagenta;
+    border: 10px solid red;
+    font-size: 5rem+5rem;
+}
+
+body{
+    background-color: $bg-color;
+}

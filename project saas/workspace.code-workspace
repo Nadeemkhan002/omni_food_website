@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Omnifood"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Omnifood"
+	}
+}

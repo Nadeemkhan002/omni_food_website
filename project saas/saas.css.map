@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,EAAE,CAAA;EAEE,KAAK,EAAE,WAAW;EAClB,MAAM,EAAE,cAAc;EACtB,SAAS,EAAE,KAAS;CACvB;;AAED,AAAA,IAAI,CAAA;EACA,gBAAgB,EAVV,IAAI;CAWb",
+    "sources": [
+        "saas.scss"
+    ],
+    "names": [],
+    "file": "saas.css"
+}
